@@ -1,0 +1,99 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch CoinChangingAlgo",
+            "request": "launch",
+            "mainClass": "CoinChangingAlgo.CoinChangingAlgo",
+            "projectName": "Java Programs_b23db925"
+        },
+        {
+            "type": "java",
+            "name": "Launch BFSprogram",
+            "request": "launch",
+            "mainClass": "BFS.BFSprogram",
+            "projectName": "Java Programs_b23db925"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimsProg",
+            "request": "launch",
+            "mainClass": "Prims.PrimsProg",
+            "projectName": "Java Programs_b23db925"
+        },
+        {
+            "type": "java",
+            "name": "Launch knapsack$KnapsackP",
+            "request": "launch",
+            "mainClass": "knapsack.knapsack$KnapsackP",
+            "projectName": "Java Programs_b23db925"
+        },
+        {
+            "type": "java",
+            "name": "Launch knapsack",
+            "request": "launch",
+            "mainClass": "knapsack.knapsack",
+            "projectName": "Java Programs_b23db925"
+        },
+        {
+            "type": "java",
+            "name": "Launch a",
+            "request": "launch",
+            "mainClass": "a.a",
+            "projectName": "Java Programs_b23db925"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeapSort",
+            "request": "launch",
+            "mainClass": "HeapSort.HeapSort",
+            "projectName": "Java Programs_b23db925"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mergesort",
+            "request": "launch",
+            "mainClass": "MergeSort.Mergesort",
+            "projectName": "Java Programs_b23db925"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quicksort",
+            "request": "launch",
+            "mainClass": "Quicksort",
+            "projectName": "Java Programs_b23db925"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quicksort",
+            "request": "launch",
+            "mainClass": "Quicksort.Quicksort",
+            "projectName": "Java Programs_b23db925"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch.BinarySearch",
+            "projectName": "Java Programs_b23db925"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "Java Programs_b23db925"
+        }
+    ]
+}
